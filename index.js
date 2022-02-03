@@ -1,2 +1,4 @@
 #!/usr/bin/env node
-console.log(`Sushil Kumar Singh - Software engineer based in Bangalore`);
+const clear = require('clear-any-console');
+clear();
+console.log(`Sushil Kumar Singh - A Software engineer based in Bangalore`);
